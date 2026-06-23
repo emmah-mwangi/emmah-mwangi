@@ -40,15 +40,6 @@ I enjoy turning ideas into structured, functional systems and continuously impro
 - FinTech Systems & Digital Platforms  
 - Backend Development & Logic Design  
 - Data-driven Problem Solving  
-
-   
-
-      GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emmah-mwangi&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emmah-mwangi&layout=compact&theme=tokyonight)
-
    
 
       Contribution Snake
