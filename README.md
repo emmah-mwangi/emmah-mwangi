@@ -1,17 +1,14 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Emmah%20Mwangi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&width=650&lines=Aspiring+Software+Developer;Business+Analysis+Enthusiast;FinTech+Explorer;IT+Audit+Learner;Building+Systems+That+Solve+Real+Problems)](https://git.io/typing-svg)
 
----
+    Hi, I'm Emmah Mwangi
 
-# 👋 Hi, I'm Emmah Mwangi
+Developer | Business Systems Thinker | FinTech & IT Audit Enthusiast  
+ Building practical, scalable, and structured solutions through code and systems thinking
 
-💻 Developer | Business Systems Thinker | FinTech & IT Audit Enthusiast  
-🚀 Building practical, scalable, and structured solutions through code and systems thinking
+   
 
----
-
-## 🏷️ Tech Stack
+      Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -25,18 +22,18 @@
 ![Business Analysis](https://img.shields.io/badge/Business%20Analysis-6366f1?style=for-the-badge)
 ![Student Developer](https://img.shields.io/badge/Student%20Developer-10b981?style=for-the-badge)
 
----
+   
 
-## ⚡ About Me
+      About Me
 
 I’m a developer passionate about using technology to understand and solve real-world business problems.  
 My interests sit at the intersection of **software development, business analysis, and financial systems**.
 
 I enjoy turning ideas into structured, functional systems and continuously improving how I think and build.
 
----
+   
 
-## 🎯 Areas of Interest
+      Areas of Interest
 
 - Business Analysis & Process Optimization  
 - IT Audit & Control Systems  
@@ -44,35 +41,35 @@ I enjoy turning ideas into structured, functional systems and continuously impro
 - Backend Development & Logic Design  
 - Data-driven Problem Solving  
 
----
+   
 
-## 📊 GitHub Stats
+      GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emmah-mwangi&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emmah-mwangi&layout=compact&theme=tokyonight)
 
----
+   
 
-## 🐍 Contribution Snake
+      Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
----
+   
 
-## 🌱 Mindset
+      Mindset
 
 - Think in systems, not just code  
 - Build clean, structured solutions  
 - Focus on clarity over complexity  
 - Learn by building real things  
 
----
+   
 
-## 📫 Connect
+      Connect
 
 GitHub: https://github.com/emmah-mwangi  
 
----
+   
 
-⭐ Always learning. Always building. Always improving.
+ Always learning. Always building. Always improving.
